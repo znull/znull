@@ -32,4 +32,4 @@ My first linux laptop crashed hard whenever I tried using suspend-to-RAM. Needle
 
 I once designed a distributed stateful packet filter for VMWare that ran partially in-vmkernel. It used Google Protocol Buffers to encode the filter rulesets, and https://github.com/protobuf-c/protobuf-c to decode those rulesets. Unfortunately, there was an edge case when memory was constrained that would crash the entire host, and all the virtual machines running on it (perhaps my most expensive bug of all time 🤑).
 
-The [issue](https://code.google.com/archive/p/protobuf-c/issues/15) was [fixed based on a patch I submitted](https://github.com/protobuf-c/protobuf-c/commit/ad4442f388b6ebeb517358af4c993567607e219d).
+The [issue](https://github.com/protobuf-c/protobuf-c/issues/15) was [fixed based on a patch I submitted](https://github.com/protobuf-c/protobuf-c/commit/ad4442f388b6ebeb517358af4c993567607e219d).
