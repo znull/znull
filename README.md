@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jason!
 
-My name is Jason Lunz, and I'm a software and systems engineer living in Seattle, Washington, USA. You can find me on [LinkedIn](https://www.linkedin.com/in/jasonlunz/) if you'd like to get in touch.
+My name is Jason Lunz, and I'm a software and systems engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/jasonlunz/) if you'd like to get in touch.
 
 One day I'd like to fill this profile out more, but for now I'm going to use this space to showcase some open source work I've done over the years that I'm proud of.
 
